@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "symptoms": ["Fever", "Cough", "Shortness of Breath"],
+        "diagnosis": "Flu"
+    },
+    {
+        "id": 2,
+        "symptoms": ["Sore Throat", "Fever", "Headache"],
+        "diagnosis": "Strep Throat"
+    },
+    {
+        "id": 3,
+        "symptoms": ["Chest Pain", "Shortness of Breath", "Dizziness"],
+        "diagnosis": "Angina"
+    },
+    {
+        "id": 4,
+        "symptoms": ["Skin Rash", "Itching", "Swollen Lymph Nodes"],
+        "diagnosis": "Allergic Reaction"
+    },
+    {
+        "id": 5,
+        "symptoms": ["Nausea", "Vomiting", "Abdominal Pain"],
+        "diagnosis": "Gastroenteritis"
+    }
+]
